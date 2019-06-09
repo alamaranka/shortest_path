@@ -6,10 +6,6 @@ import data.Vertex;
 
 public class GraphGenerator {
 
-    public GraphGenerator(){
-        generate();
-    }
-
     public Graph generate() {
 
         Graph graph = new Graph();
